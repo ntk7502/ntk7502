@@ -1,0 +1,16 @@
+{
+  "name": "nt7502",
+  "version": "1.0.1",
+  "description": "Testnet Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntk7502/ntk7502.git"
+  },
+  "keywords": ["nothing", "simple", "testtea"],
+  "author": "Nguyen Dau Kha",
+  "license": "MIT"
+}
